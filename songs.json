@@ -1,0 +1,37 @@
+[
+	{
+	  "songtitle": "गुरु वंदना",
+	  "songfile": "guru.mp3",
+	  "show": 1
+	},
+	{
+	  "songtitle": "मैं हूँ वो आसमान",
+	  "songfile": "asmaan.mp3",
+	  "show": 1
+	},
+	{
+	  "songtitle": "Prayer",
+	  "songfile": "prayer.mp3",
+	  "show": 1
+	},
+	{
+	  "songtitle": "शांति शांति",
+	  "songfile": "shanti.mp3",
+	  "show": 1
+	},
+	{
+	  "songtitle": "क्यों है तू",
+	  "songfile": "mann.mp3",
+	  "show": 1
+	},
+	{
+	  "songtitle": "मैं रहता हूँ",
+	  "songfile": "paar.mp3",
+	  "show": 1
+	},
+	{
+	  "songtitle": "सपनों के महल",
+	  "songfile": "sapno.mp3",
+	  "show": 1
+	}
+  ]
